@@ -1,0 +1,7 @@
+version: STSv1
+mode: testing
+mx: mx4.email-hosting.net.au
+mx: mx3.email-hosting.net.au
+mx: mx2.email-hosting.net.au
+mx: mx1.email-hosting.net.au
+max_age: 604800
